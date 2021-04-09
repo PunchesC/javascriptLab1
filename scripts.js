@@ -1,4 +1,4 @@
-const myName = 'Curtis Punches';
+const myName = 'Curtis Punches ';
 
 const age = 29;
 
@@ -17,7 +17,7 @@ if (detroitGC === true) {
   console.log(
     'My name is ' +
       myName +
-      'and I am a student at Grand Circus in Detroit, Michigan. I am currently ' +
+      ' and I am a student at Grand Circus in Detroit, Michigan. I am currently ' +
       age +
       ' years old and my birthday is on ' +
       birthday +
